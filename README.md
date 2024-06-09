@@ -1,4 +1,4 @@
-#Internship Program
+#Internship
 
 OctaNet June-2024 internship
 
